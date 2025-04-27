@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5d300a37-4bec-4cf6-8b6c-1bfe65e6ddc5/resourceGroups/venv-rg/providers/Microsoft.Web/sites/venv-h7dl6jdmxkfls",
+    "appService.deploySubpath": "."
+}
